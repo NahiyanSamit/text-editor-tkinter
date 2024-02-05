@@ -33,4 +33,4 @@ This is a simple text editor application built using Tkinter in Python. It provi
 2. Run the application through NotePad executable file
 
 ## License
-[THE MIT LICENSE](.LICENSE)
+[THE MIT LICENSE](https://github.com/NahiyanSamit/text-editor-tkinter/blob/main/LICENSE)
