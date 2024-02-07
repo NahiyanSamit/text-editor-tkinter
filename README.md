@@ -27,10 +27,16 @@ This is a simple text editor application built using Tkinter in Python. It provi
    ```bash
    git clone https://github.com/NahiyanSamit/text-editor-tkinter.git
    ```
+2. Run the python file
+```bash
+python NotePad.py
+```
 
 ## Create Executable
 1. Run install batch file in the project directory
 2. Run the application through NotePad executable file
+3. If install batch file doesn't create a executable file then run insrall_1.bat file,
+   and copy the Resource folder to the dist folder.
 
 ## License
 [THE MIT LICENSE](https://github.com/NahiyanSamit/text-editor-tkinter/blob/main/LICENSE)
